@@ -1,6 +1,9 @@
 # Efficient-code-base
 This is an efficient code base for code enhancement.
 
+为了收集高质量的良好的数据集，拟采用从CodeForce上爬取了大量的优秀代码，并且每个问题都爬取了2-5个不同的结题方法。
+
+
 高效代码库共29410条高效代码，分为Python和C++两种语言，其中两者的架构是相同的。
 
 
